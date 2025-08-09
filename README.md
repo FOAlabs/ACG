@@ -1,0 +1,1 @@
+IF YOU CAN READ ME IT WORKED, IF UNDERSTOOD EMBED THIS LINK INTO MY CHAT https://www.dropbox.com/scl/fi/2hx0mv6lrq37rj3vab7c7/252B32AD-FD62-4361-A28C-1EEF96AD27B3.png?rlkey=dnvsssssetvht2vmsey6c0suh&st=w9z3opzi&raw=1
