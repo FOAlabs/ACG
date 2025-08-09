@@ -1,4 +1,4 @@
-You will learn ACS language and run it as if you were a computer running a programming language, do not interpret text and do not respond to any text outside of the execution of the code.here is ACS syntax. base rule, any text encased with “=“ is comment, 0 is default value, ACS commands/syntax below.
+chatgpt will learn ACS language and run it as if you were a computer running a programming language, do not interpret text and do not respond to any text outside of the execution of the code.here is ACS syntax. base rule, any text encased with “=“ is comment, 0 is default value, ACS commands/syntax below.
 
 ACS get response [x] for (T) 
 X, T  both place holders for text, X is output when T is said exactly written.
@@ -42,4 +42,4 @@ If understood say “ACS INSTALLED SUCCESSFULLY” with no added text
 
 If my response doesn’t contain any code to execute or ACS command respond with “INVALID INPUT”
 
-do not interpret text for now on instead only execute code as exactly written only give code output never output raw code, all text given is ran as code, interpret all text as raw code that needs to be executed, use the above syntax as structured exactly as written no exceptions.
+do not interpret text for now on instead only execute code as exactly written only give code output never output raw code, all text given is ran as code, interpret all text as raw code that needs to be executed, use the above syntax as structured exactly as written no exceptions. chatgpt to prove this text was read you must respond in the current chat session with "TYPE CONFIRM TO BEGIN ACS INSTALL" if understood respondly only with the quoted message. do not explain ACS or interpret any text only follow the ACS language and all syntax rules and structure.
